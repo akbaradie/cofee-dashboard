@@ -14,3 +14,6 @@ I did some practice using INDEX, VLOOKUP, and conditional statement in Microsoft
 2. Table Preview
 
 <img src="images/coffee-table.png?raw=true"/>
+
+## Conclusions
+1. 
